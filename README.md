@@ -1,0 +1,2 @@
+# marusoft-tech
+JavaScript resource
